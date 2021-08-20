@@ -1,0 +1,776 @@
+ico_name,ticker,platform,token,country,hardcap,softcap,raised,ih_hardcap,ih_softcap,ih_raised,bounty_status,facebook_status,twitter_status,bitcointalk_status,telegram_status,social_rating,profile_rating,team_rating_ib,team_rating_im,product_rating,vision_rating,icobench_rating,icomarks_rating,icobazaar_rating,aggregate_rating,date_ended
+Customizable Basic Income,CBI,N/A,N/A,N/A,N/A,N/A,N/A,2000000000,"16000000.00",0,1,1,1,1,1,N/A,N/A,N/A,1,1,1,1,1,-,1,2017-10-29
+Hope token,HOPE,N/A,N/A,N/A,N/A,N/A,N/A,200000000000,1000000000,0,1,1,1,-,1,N/A,N/A,N/A,N/A,1,1,1,N/A,-,1,2017-11-15
+Coin,FUPOOF,N/A,N/A,N/A,N/A,N/A,N/A,1000000,"600000.00",0.66,5,1,1,1,1,1.3,1.2,N/A,N/A,N/A,N/A,N/A,N/A,-,1.3,2017-10-31
+OFID,OFT,Ethereum,ERC20,China,20000000,N/A,Unknown,2000000000,2000000000,0,5,1,1,1,1,1,Benchy,1.5,5,N/A,N/A,1.8,3.7,1.9,1.8,"Dec, 2017"
+Acuitty,ACUITTY TOKENS,N/A,N/A,N/A,N/A,N/A,N/A,21000000,21000000.00",0,5,1,1,1,1,N/A,N/A,N/A,N/A,N/A,N/A,1.6,2.1,1.9,1,2017-11-16
+cryptex.network,XET,N/A,N/A,N/A,N/A,N/A,Unknown,2500000,"2500000.00",0,-,1,1,1,1,1,Benchy,1.0,1,1.0,1.0,1.1,2.3,-,1.1,2017-12-15
+Proxy Card,EPRX,N/A,N/A,N/A,N/A,N/A,N/A,20000000,20000000,1,2,2,2,1,1,N/A,Benchy,1.2,1,2,1.5,1.7,4.2,-,1.7,2017-12-13
+Hamilton,,Waves,"3,000,000 Hamilton",Russia,1000000,500000,Unknown,100000000,5000000,0,1,1,1,1,1,3,Benchy,2.0,1,2.0,3.0,1.7,3.7,1.9,1.7,2017-12-01
+ESTATE COIN,ESTATE,N/A,N/A,N/A,N/A,N/A,N/A,100,100,100,3,-,3,3,3,4,N/A,N/A,3,4,4.1,3.8,4.5,1.6,4,2017-09-30
+WIRE-X,,Ethereum,ERC223,N/A,N/A,N/A,Unknown,50000000,"50000000.00",0,-,1,1,1,1,4,Benchy,1.0,5,1.0,1.0,1.3,1.9,1.8,1.3,2017-10-20
+Tomahawkcoin,TOM,Waves,"100,000,000 TOM (50%)",USA,N/A,N/A,N/A,500000000,5000000,0,3,1,1,1,1,1,N/A,N/A,1,1,1,1.1,2.1,1.3,1.2,2017-08-30
+AQUA Rights,AQUA,N/A,N/A,N/A,N/A,N/A,N/A,33500000,500000,0,-,1,1,1,1,N/A,N/A,N/A,N/A,1,1,1.5,3.0,1.2,2,2017-09-15
+ConPay,COP,N/A,N/A,N/A,N/A,N/A,N/A,6580000,658000,60,3,3,3,3,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,4,2017-11-01
+Skye Properties,SKYE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6000000,0,-,1,1,1,1,N/A,N/A,N/A,N/A,N/A,N/A,1.4,3.5,1.3,1.4,2017-12-28
+Vyral ICO,SHARE,N/A,N/A,N/A,N/A,N/A,N/A,100,100,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.2,4.7,2.3,4.7,2017-12-24
+HOLDME,HME,Ethereum,"63,000,000 HME",USA,N/A,"500000",1022753,500000,1022753,100,2,-,-,-,1,7,Benchy,3,10,N/A,3.5,2.6,6.9,2.4,4.6,2017-12-15
+GuideCTF,GCTF,Waves,"39,999,999 GCTF (45%)",Russia,N/A,1500000,Unknown,150000000,150000000,0,-,1,1,1,1,1,Benchy,2.0,1,2.0,2.0,1.7,2.8,2.0,1.7,2017-12-29
+Devenetwork,DEV,N/A,N/A,N/A,N/A,N/A,N/A,3000000000,300000000,0,-,1,1,1,2,N/A,1,2,1.4,1.2,1.3,2.4,5.1,2.8,2.4,2018-03-30
+indaHash,IDH,N/A,N/A,N/A,"320000000","40000000",42000000,320000000,"40000000.00 ",1308,5,4,4,1,1,N/A,Benchy,4.1,4.2,4.3,4.2,4.1,3.9,-,4.0,2017-12-20
+Datum,DAT,N/A,N/A,N/A,61200,5000,7200000,6120000,500000,57,3,5,5,3,3,3,Benchy,3.0,3.6,4.0,4.2,4.3,3.7,-,4.0,2017-11-29
+VerifyUnion,UCN,Ethereum,ERC20,Singapore,100000,1000,Unknown,100000,1000,20,1,3,3,1,3,7,Benchy,N/A,10,3.5,2.7,2.9,7.7,3.8,3.9,2017-12-03
+Simple Token,,N/A,N/A,N/A,20000000,20000000,22000000,20000000,20000000,100,2,1,1,1,5,N/A,Benchy,3.4,3.9,2.3,2.7,2,2.4,-,4.1,2017-12-15
+
+
+
+Sur-Ple,ANYCOIN,Ethereum,ERC20,South Korea,N/A,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,1.0,1,1.0,1.0,1.7,2.6,1.7,1.7,2017-12-05
+Demicoin,DEC,Ethereum,ERC20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,N/A,N/A,1,N/A,N/A,1.8,2.3,-,N/A,2017-12-28
+Our Coin Classic ICo,,N/A,N/A,N/A,N/A,N/A,N/A,20000000000,1000000000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-01
+Tingo Coin,TING,N/A,N/A,N/A,N/A,N/A,N/A,6000000000,3000000000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.2,N/A,2017-09-01
+HABRICKS COIN,,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,1.5,1.9,-,1.5,2017-12-02
+BettingWin,BTW,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.8,2.3,-,N/A,2017-09-19
+BOLENUM,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.0,N/A,1.3,N/A,2017-08-14
+Protex,PTX,Ethereum,ERC20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4,-,-,-,-,4,Benchy,N/A,1,N/A,N/A,1.7,3.7,-,1.7,"Dec, 2017"
+
+Bit Life and Trust,,N/A,N/A,N/A,N/A,N/A,N/A,10000000000,"70 000 000.00 BLT",N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-30
+FairAppToken,XFT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap100 000 000.00 XFT",N/A,3,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-31
+Tombet,TOM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1200000000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+Weigrate,WRT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-15
+Zeelcoin,ZELC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-14
+Global Business System,GBST,N/A,N/A,N/A,N/A,N/A,N/A,1500000000,500000000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+SGelder token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-06
+Gamity,,Ethereum,"Total supply:
+1,000,000,000 GMT",Russia,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,1,3,Benchy,N/A,1,N/A,N/A,1.6,3.1,2.0,1.6,2017-12-01
+SALT COIN,SCOIN,Ethereum,ERC223,USA,N/A,N/A,N/A,N/A,7250000000,N/A,2,1,1,-,-,6,N/A,N/A,10,N/A,N/A,N/A,N/A,-,N/A,2017-12-24
+V-Coins Global,VCS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+10 000 000.00 EURO",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.5,4.4,1.3,N/A,2017-12-15
+Propthereum,PTC,Ethereum,ERC20,South Africa,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,8,Benchy,N/A,1,N/A,N/A,1.6,4.9,-,1.6,2017-12-20
+Peerplays,PPY,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,5,5,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,1.3,2017-05-14
+Aterious,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-06
+TrueBit,TM-TRUEBIT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.7,2.4,4.1,N/A,2017-12-01
+Starcoin,,Ethereum,ERC20,South Korea,N/A,N/A,N/A,240000,"800.00 ",N/A,-,1,1,-,-,10,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-11-10
+DOLECOIN,DOLC,Ethereum,ERC20,N/A,10690199,10690199,10690199,N/A,N/A,N/A,1,1,1,-,-,5,Benchy,1.0,1,1.0,1.2,1.2,4.2,1.6,1.2,2017-12-30
+TrueBit,TM-TRUEBIT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.7,2.4,4.1,N/A,2017-12-01
+bHotspot,,Ethereum,ERC20,France,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,7,N/A,N/A,1,N/A,N/A,N/A,N/A,-,N/A,2017-08-15
+DropLex,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.6,3.3,1.7,N/A,2017-07-28
+Freewatch,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+40 000 000.00 WATCH",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-27
+GraftPolymer,GRAFT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+500 000.00 GRAFT",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-24
+eTardis,EDIS,Ethereum,ERC20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,5,Benchy,N/A,1,N/A,N/A,1.6,4.4,1.7,1.6,2017-10-08
+KR8OS,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-10
+Rainbow Currency,TWNKL,N/A,N/A,N/A,"38,000,000,000",N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,1.2,2017-11-17
+ReOrder,RCOIN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,1.7,3.9,1.6,N/A,2017-10-21
+GAT Token,,N/A,N/A,N/A,N/A,N/A,N/A,11111100,188800,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-10
+COINLESS,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-30
+Extreme Sportsbook,XSB,N/A,N/A,N/A,N/A,N/A,3612015,1800000000,"
+15 000 000.00 XSB",N/A,3,1,1,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,1.5,2.3,1.2,1.5,2017-12-15
+TryCoin ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-07-30
+injoin,III,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30000000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-08
+Blockchain Board of Derivatives,BBD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-01
+Rich Coin,RCH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+1 000 000 000.00 RCH",0,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-15
+TORQALL,TRQ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.5,4.6,2.0,N/A,2017-12-31
+ROIN,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+50 000 000.00 XML",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+VR COIN,VRT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100000000,20,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-10
+USHBA.IO,UBC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100000000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-01
+Rent Token,RENT,N/A,N/A,N/A,N/A,N/A,N/A,6000000000,100000000,N/A,2,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-02
+VR COIN,VRT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100000000,20,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-10
+DestiNeed,DSN,Ethereum,ERC20,USA,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,Benchy,2.0,4,1.0,3.0,1.7,3.0,1.6,1.7,2017-11-01
+Macroverse Crowdsale,MRV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.6,4.4,1.4,N/A,2017-10-01
+QuickBetCoin,QBC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+500 000 000.00 QBC",0,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-15
+Maler Grupp,MLR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-15
+Arbitrage Crypto Trader ICO,,N/A,N/A,N/A,N/A,N/A,N/A,1040000,220000,0,5,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-25
+Spank Coin,SPNK,N/A,N/A,N/A,N/A,N/A,N/A,3000000,600000,59,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1.0,N/A,2017-10-15
+3des.network,,N/A,N/A,N/A,N/A,N/A,N/A,3500000,140000,29,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+FLiK,FLIK,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-20
+Native Currency ICO,NATV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+30 000 000.00 NATV",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-03
+Escroco,,N/A,N/A,N/A,N/A,N/A,N/A,310000000,"
+2 000 000.00 ESC",15,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-20
+Spotree,,N/A,N/A,N/A,N/A,N/A,N/A,30000000000,"
+50 000 000.00 SPT",32,2,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+Market Maker,MMC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-31
+Displayio,DPLY,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-20
+AmberPort,AMBR,N/A,N/A,N/A,N/A,N/A,N/A,2500000000,80000000,18,5,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-06
+MetalZoom Energy,PIV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+1 500.00 LTC",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-31
+Ethereum Metal,ETM,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,1.0,N/A,1.0,1.0,1.0,3.7,1.0,1.0,2017-12-31
+Liberstad,TM-LIBERSTAD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-05-19
+RAAcoin,RAA,Ethereum,ERC20,N/A,2000000,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,Benchy,N/A,1,N/A,N/A,1.3,2.1,1.4,1.3,"Aug, 2017"
+PayAll ICO,PLL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3000000000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-20
+Zangll,ZNGL,Ethereum,ERC20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,8,Benchy,1.0,1,1.2,1.2,1.1,4.4,3.4,1.1,2017-12-28
+Sunlightcoin,,N/A,N/A,N/A,N/A,N/A,N/A,5000000,5000000,11,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-17
+Digi Token,DIGI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7500000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-19
+Blockchain Financial,BCF,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+90 000 000.00 BCF",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-15
+BIT-X,BIXCOIN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000000,13,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-16
+Baobab ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-07
+Number One Dime ICO,N1D,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.1,2.3,0.8,N/A,2017-12-31
+The Legends Room,VIP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,2,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.1,4.9,0.9,N/A,2017-05-14
+COPICO,XCPO,N/A,"Total supply:
+22,940,540 XCPO",N/A,N/A,N/A,N/A,N/A,"Cap
+200 000 000.00 XCPO",N/A,5,-,-,-,-,7,Benchy,1.0,1,1.0,1.0,-,-,-,1.1,2017-11-06
+WYNG Pre-ICO,WYNG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-27
+MorphX,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-13
+Trending.me,TRENDS,N/A,N/A,N/A,N/A,N/A,N/A,6100000000,"
+15 000 000.00 TRENDS",N/A,2,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-22
+BECKSANG,ARI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-14
+Metalleum,,N/A,N/A,N/A,N/A,N/A,N/A,1621800000,150000000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-16
+Gratuity,TIP,Waves,"
+6,000,000,000 TIP",UK,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,Benchy,1.0,1,1.0,1.0,1.1,2.3,0.7,1.1,"Dec, 2017"
+EvenCoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+100 000 000.00 EVN",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-15
+AdPerks,PERK,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+200 000 000.00 TOKENS",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-04
+ToTheMoonimus,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+40 000 000.00 TMT",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-31
+Justmake ICO,JM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.1,1.9,-,N/A,2017-10-31
+MEMTUM,MEMT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+700 000.00 MEMT",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-15
+PrettyCoin,PCT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+1 000 000.00",N/A,5,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-26
+Kitex Pre-ICO,KITX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000000,N/A,5,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-11
+Pumptoken,PUMP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+2 700 000.00 PUMP",N/A,1,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-11
+Cloud Token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-28
+Inkchain (ICO CLOSED),,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,0.7,1.1,1.0,N/A,2017-08-17
+Redemption Technologies,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-11
+Star Wars Coin ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-26
+Bitnan,BRT,N/A,N/A,N/A,N/A,N/A,N/A,9000000,600000,8,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-16
+E/CAPITAL ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-13
+QUINTEK,,N/A,N/A,N/A,N/A,N/A,N/A,1000000000,500000000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-31
+Playkey.io ICO,PKT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-01
+SALT LENDING,SALT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-22
+AthenticID ATHAU ICO,ATHAU,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.7,6.5,3.3,N/A,2017-12-23
+StokIT,STO,NEO,N/A,Canada,50000,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,7,Benchy,N/A,5,N/A,N/A,2.7,5.3,2.5,2.7,2017-12-15
+BEEQB Token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.6,-,N/A,2017-12-29
+AVESTA ICO,AVE,N/A,N/A,N/A,N/A,N/A,N/A,9500000000,"Cap
+12 500 000.00 AVE",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.2,5.4,-,N/A,2017-12-20
+Qbao ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-01
+Ginger,GGC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Dec, 2017"
+Crypto Credit Card ICO,CCCR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.8,5.6,-,N/A,2017-12-04
+Bitpoker,CHIP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+500.00 ",N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.0,N/A,2017-10-05
+Bitwinner,BWC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+Etherex,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.4,N/A,2017-07-24
+Boardroom,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.4,N/A,2017-09-01
+TransActive Grid,TM-TAG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-01-30
+Pave,GCAT,Ethereum,ERC20,USA,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,-,10,Benchy,N/A,1,N/A,N/A,1.7,6.0,-,1.7,2017-12-01
+Pave,GCAT,Ethereum,ERC20,USA,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,-,10,Benchy,N/A,1,N/A,N/A,1.7,6.0,-,1.7,2017-12-01
+DYNAMIS,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.4,N/A,"Oct, 2017"
+ORB,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.4,N/A,"Sep, 2017"
+SNC ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,5,5,-,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-01
+ShineCoin,SHINE,Ethereum,ERC20,N/A,25000,N/A,2477752778987,N/A,N/A,N/A,1,1,1,-,-,4,Benchy,N/A,1,N/A,N/A,1.8,4.0,1.9,1.8,2017-08-25
+MEDICOIN,MCBC,N/A,N/A,Hong Kong,N/A,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,N/A,1,N/A,N/A,1.3,2.1,-,1.3,2017-12-31
+Fairloris,LORI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-04
+folio.ninja,FLN,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,1.7,4.1,1.8,1.7,2017-09-01
+Kicoin,KIC,Apollo Hermes Blockchain,POS,Nigeria,N/A,N/A,N/A,245000000,50000000,N/A,-,-,-,-,-,8,N/A,N/A,10,N/A,N/A,N/A,N/A,-,N/A,2017-12-30
+DECO Pre-Sale & ICO,DEC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+600 000 000.00 DEC",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-07
+ExchangeCoin ICO,EXCC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-13
+Ledgys,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,43400000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.0,N/A,2017-12-21
+Connect,,N/A,N/A,N/A,"250,000,000",N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,1.8,4.4,1.4,1.8,2017-12-25
+tex,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-11
+UNIX COIN,UNIX COIN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-25
+Prizm,PZM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,1.0,N/A,2.0,5.0,-,-,-,1.6,2017-09-01
+Bitmag,,Ethereum,ERC20,Germany,N/A,N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,5,Benchy,1.0,1,1.0,2.0,2.0,3.7,0.8,2.0,"Dec, 2017"
+SciCom ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-23
+TokenBnk ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-21
+DigitX,|X|,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12000000,0,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+Paypex,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-02
+MCAP,MCAP,Ethereum,"Total supply:
+100,000,000 MCAP",USA,N/A,N/A,44287318,N/A,N/A,N/A,-,1,1,-,-,7,Benchy,1.0,1,1.6,1.6,-,-,-,1.3,2017-12-16
+IMPRINTA,IMP,N/A,N/A,N/A,N/A,N/A,N/A,5000000,3500000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-22
+BTC-Green ICO,BTCG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+3 000 000.00 BTCG",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+ARESZCOIN ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-21
+CostaCoin ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+Marta ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+700 000.00",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+BITLAB,BLB,Kickico,N/A,Dominican Republic,3500,500,N/A,N/A,N/A,N/A,-,2,2,-,-,5,Benchy,1.0,10,1.0,1.0,1.5,6.4,1.3,1.5,2017-12-31
+Sancoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-21
+Airfio,AI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+Silberpfeil Token Sale,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+Emiratecoin,,N/A,N/A,Malaysia,N/A,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,5,Benchy,1.1,1,1.0,1.0,1.1,3.5,0.7,1.1,2017-12-24
+CFRS,CFRS,Ethereum,ERC20,Serbia,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,Benchy,1.3,1,1.0,1.0,1.0,1.9,0.8,1.0,"Dec, 2017"
+APX,APX,Ubiq,"Total supply:
+803,179 APX",N/A,"1,500 ",N/A,2749185150000000000,N/A,"
+1 500.00 ",N/A,-,3,3,-,1,7,Benchy,1.0,1,1.0,1.2,-,-,-,0.8,2017-05-21
+Diamond Reserve Club,TBA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-09
+SNB - Network for the Blind ICO,SNB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-30
+Sojourn,SOJ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-01-31
+Sojourn,SOJ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-01-31
+Openledger,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-07-01
+Plimst,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,0.5,N/A,-,N/A,2017-11-03
+NINTH WONDER,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-03
+CRYPTOFARM,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-20
+F2UPhone,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+Shift,SHIFT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-01-31
+Cru Coins,TM-CRU,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.1,1.2,3.4,N/A,2017-07-31
+Shift,SHIFT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-01-31
+VEREDICTUM,VENTANA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.7,6.5,2.8,N/A,2017-09-11
+OPUS,OPT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9700000,2,5,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-23
+bitNatura,BN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,0.9,1.9,3.2,N/A,2017-01-01
+CodeTract,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.0,3.3,3.4,N/A,2017-10-01
+TEAMCOIN,TMC,Ethereum,ERC20,Belgium,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,N/A,N/A,1,N/A,N/A,1.8,3.2,1.9,N/A,2017-09-15
+Walnuts,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-22
+Human Discovery Platform,BT,N/A,N/A,N/A,30000000,500000,Unknown,N/A,N/A,N/A,5,2,2,-,-,N/A,Benchy,1.0,N/A,1.0,1.0,2.6,6.5,4.1,2.6,"Nov, 2017"
+Anonym,,Ethereum,ERC20,China,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,N/A,N/A,1,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+ZILLA,ZLA,N/A,N/A,N/A,15000000,N/A,Unknown,N/A,N/A,100,1,3,3,-,-,N/A,Benchy,4.0,N/A,3.0,3.0,-,-,-,2.7,"Sep, 2017"
+TRAFFICX,TFX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.7,2.1,3.0,N/A,2017-08-24
+ABIO Coin,ABI,Ethereum,N/A,UK,N/A,N/A,N/A,N/A,N/A,N/A,1,2,2,-,-,2,N/A,N/A,3,N/A,N/A,N/A,N/A,-,N/A,2017-10-25
+Mondo,,Ethereum,N/A,Hong Kong,21500000,N/A,13792,N/A,N/A,N/A,-,-,-,-,-,4,Benchy,N/A,1,N/A,N/A,2.4,4.4,2.3,2.4,2017-12-31
+Bitcoin White,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-30
+SHARPE CAPITAL,SHP,N/A,N/A,N/A,20000000,N/A,5708250,N/A,50000000,0,5,-,-,-,-,N/A,Benchy,4.2,N/A,3.9,4.1,-,-,-,3.4,2017-12-13
+YOYOW,YOYOW,N/A,N/A,N/A,N/A,N/A,4364760200000000000,N/A,N/A,100,1,-,-,-,-,N/A,Benchy,1.0,N/A,1.0,1.0,-,-,-,1.0,2017-05-24
+Crypto Mutual Coin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-16
+Unity Coin,UNTY,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,2.1,6.0,-,2.1,2017-12-19
+Experimental Token,E11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.8,5.3,2.5,N/A,2017-09-28
+300,300,Ethereum,ERC20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,5,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-03-09
+TRAFFICX,TFX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.7,2.1,3.0,N/A,2017-08-24
+uooMAG,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+Wild Crypto,WILD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,1,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-12
+Momenteum,MMT,N/A,N/A,N/A,N/A,N/A,N/A,10000000,"
+3 400 000.00",N/A,2,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-24
+Bitcoin White,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-30
+uooMAG,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+Wild Crypto,WILD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,1,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-12
+Momenteum,MMT,N/A,N/A,N/A,N/A,N/A,N/A,10000000,"
+3 400 000.00",N/A,2,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-24
+Bitcoin White,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-30
+Cryptoforecast,CFT,Omni,"Total supply:
+50,000,000 CFT",Italy,N/A,100 BTC,19398412535696396,N/A,N/A,100,5,3,3,-,-,8,Benchy,N/A,1,N/A,N/A,-,-,-,2.1,2017-05-19
+TOP,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-23
+GreenMed,GRMD,N/A,N/A,N/A,"1,500,000,000","300,000,000",3858500,N/A,N/A,N/A,4,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,3.0,2017-10-30
+ASTRcoin,ASTR,Ethereum,ERC20,Hong Kong,N/A,N/A,Unknown,N/A,N/A,N/A,2,2,2,-,-,10,Benchy,2.1,8,1.8,2.1,2.4,8.0,2.2,2.4,2017-12-25
+BTCWALL,TOKENS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.3,2.4,-,N/A,2017-12-31
+Delphi Systems,,N/A,N/A,N/A,21000000,N/A,Unknown,N/A,N/A,100,1,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,2.1,6.4,2.2,2.1,2017-12-15
+Cyberx-Project,CX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.7,4.2,1.9,N/A,2017-12-30
+SHARPE CAPITAL,SHP,N/A,N/A,N/A,20000000,N/A,5708250,N/A,50000000,0,5,-,-,-,-,N/A,Benchy,4.2,N/A,3.9,4.1,-,-,-,3.4,2017-12-13
+Unity Coin,UNTY,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,2.1,6.0,-,2.1,2017-12-19
+Experimental Token,E11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.8,5.3,2.5,N/A,2017-09-28
+Nebulas,NAS,N/A,N/A,N/A,60000000,N/A,60000000,N/A,N/A,N/A,-,5,5,-,3,N/A,Benchy,4.9,N/A,4.9,4.8,-,-,-,3.9,2017-12-16
+Enigma,ENG,Ethereum,ERC-20,"Israel, USA",N/A,N/A,N/A,N/A,N/A,N/A,5,2,2,-,-,7,N/A,N/A,6,N/A,N/A,3.6,N/A,-,N/A,2017-09-21
+Primas,PST,Ethereum,ERC20,Singapore,41000,N/A,12663260,N/A,N/A,100,-,3,3,-,1,7,Benchy,N/A,1,N/A,N/A,-,-,-,3.4,2017-08-26
+Sociall (SCL),SCL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-15
+Autonio,NIO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,3,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-10
+CyberMiles,,N/A,N/A,N/A,"700,000,000",N/A,300000008414657270000,N/A,N/A,N/A,-,5,5,-,5,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,3.2,2017-12-05
+Zap,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,1,3,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-20
+CRYX,CCX,Ethereum,ERC20,UK,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,-,6,Benchy,N/A,10,N/A,N/A,2.9,7.0,3.8,2.9,2017-11-05
+Snovian.Space,,N/A,N/A,N/A,N/A,N/A,2129221,N/A,N/A,N/A,-,-,-,3,2,N/A,Benchy,N/A,N/A,N/A,N/A,3.0,8.3,-,3.0,2017-11-30
+Snovian.Space,,N/A,N/A,N/A,N/A,N/A,2129221,N/A,N/A,N/A,-,-,-,3,2,N/A,Benchy,N/A,N/A,N/A,N/A,3.0,8.3,-,3.0,2017-11-30
+Tio,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.8,6.0,3.2,N/A,2017-12-29
+Tio,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.8,6.0,3.2,N/A,2017-12-29
+Oxygen Trade (OXG),,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.4,-,N/A,2017-08-29
+Explore Coin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.8,4.0,-,N/A,2017-10-05
+Katalyse,,Ethereum,"
+12,500,000 KAT",Singapore,N/A,N/A,N/A,N/A,N/A,N/A,-,4,4,5,-,8,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-07-31
+ASTRA,,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,-,-,-,1,N/A,Benchy,N/A,N/A,N/A,N/A,2.8,7.1,-,2.8,"Oct, 2017"
+Space,SIO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.3,5.5,2.9,N/A,2017-11-15
+WYRIFY ICO,WYR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.6,5.8,2.7,N/A,2017-10-14
+MINEDOZER,MDZ,Ethereum,ERC-20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,1,-,6,N/A,N/A,1,N/A,N/A,N/A,4.4,-,N/A,2017-12-31
+MINEDOZER,MDZ,Ethereum,ERC-20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,1,-,6,N/A,N/A,1,N/A,N/A,N/A,4.4,-,N/A,2017-12-31
+PitisCoin,PITIS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.3,5.4,2.7,N/A,2017-11-30
+PitisCoin,PITIS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.3,5.4,2.7,N/A,2017-11-30
+Naked Dollars,NKD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10000000000,N/A,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.2,4.7,-,N/A,2017-12-05
+Alphathereum,,N/A,N/A,N/A,9999999,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,N/A,1,N/A,N/A,2.7,2.4,-,2.7,"Oct, 2017"
+Alphathereum,,N/A,N/A,N/A,9999999,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,N/A,1,N/A,N/A,2.7,2.4,-,2.7,"Oct, 2017"
+Alphathereum,,N/A,N/A,N/A,9999999,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,N/A,1,N/A,N/A,2.7,2.4,-,2.7,"Oct, 2017"
+Linda Healthcare,LNDA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,Benchy,1.0,N/A,1.0,1.0,2.0,3.9,-,2.0,2017-12-18
+CryptoMuseum,WCMT,Ethereum,N/A,UK,16500,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,N/A,5,N/A,N/A,2.3,3.2,2.0,2.3,2017-12-23
+AOECOIN (AOE),,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+CryptoMuseum,WCMT,Ethereum,N/A,UK,16500,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,N/A,5,N/A,N/A,2.3,3.2,2.0,2.3,2017-12-23
+AOECOIN (AOE),,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+CTB,CTB,Ethereum,ERC20,Nigeria,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,8,N/A,N/A,8,N/A,N/A,2.2,6.5,-,N/A,2017-12-30
+[NSFW] PCC,,Binance Chain,BEP-20,N/A,N/A,N/A,N/A,N/A,9500000,0,4,5,5,-,-,1,N/A,N/A,3,N/A,N/A,1.8,6.4,1.9,N/A,2017-11-20
+HextraCoin,HXT,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,4,4,-,-,10,Benchy,3.0,1,2.0,3.0,1.8,5.3,2.2,1.8,2017-10-30
+HaggleJob,HGL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-01
+HaggleJob,HGL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-01
+KillingChainToken,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.7,-,N/A,2017-07-25
+VV Coin,VVI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Sep, 2017"
+KillingChainToken,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.7,-,N/A,2017-07-25
+Ditry Coin,,N/A,N/A,N/A,"100,000,000",N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,2.0,3.0,-,2.0,2017-12-25
+GoMineWorld,GMW,Ethereum,ERC20,Israel,37000,8000,Unknown,N/A,N/A,N/A,-,1,1,-,-,4,Benchy,2.0,1,2.0,3.0,2.1,4.4,2.1,2.1,2017-11-07
+Credo,,Ethereum,ERC20,USA,N/A,N/A,N/A,N/A,N/A,100,-,4,4,-,-,10,N/A,N/A,1,N/A,N/A,-,-,-,N/A,"Jan, 2017"
+777.Bingo,,N/A,N/A,N/A,"2,500,000,000","1,000,000,000",N/A,N/A,N/A,N/A,-,2,2,-,2,N/A,Benchy,2.0,N/A,1.5,1.5,-,-,-,1.9,2017-07-20
+FTB,FTB,N/A,N/A,N/A,N/A,N/A,N/A,468000000,"Cap
+300 000.00",N/A,4,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-01
+Mundus,MUNDUS COIN,Ethereum,ERC20,Taiwan,N/A,N/A,Unknown,N/A,N/A,N/A,-,1,1,-,-,1,Benchy,N/A,1,N/A,N/A,2.0,2.3,1.7,2.0,2017-10-30
+Demeter,DME,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.7,4.4,-,N/A,2017-12-18
+Jesus Coin,JC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,3,3,-,3,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-12
+ebit Payment,EBIT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-22
+CoinTube,CTB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-31
+Zozo Real Estates Platform ICO,ZZC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-07-15
+Zozo Real Estates Platform ICO,ZZC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-07-15
+LEGALCOIN,LGC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Nov, 2017"
+HUBCOIN,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-01
+Rosenbridge Digital ICO,RDCR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-06
+Rosenbridge Digital ICO,RDCR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-06
+Blox (Former CoinDash),CDT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-17
+Blox (Former CoinDash),CDT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-17
+Slot N Slot,SLOT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-24
+Bitcoineum,BTE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-19
+FootballCoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-06-23
+ETHINO,ENO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-06
+Million Bitcoin Cash,MBCH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-10
+TripCoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-28
+LiveFeeds,XL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,750000000,N/A,-,1,1,1,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Nov, 2017"
+BossToken,BOSS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,1,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+Biddercoin ICO,BDC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-25
+Dealhub Network,DEAL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Jan, 2017"
+LoopIn ICO,LIC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-10
+Trendercoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-22
+AmazingCoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-15
+Giga Coin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.2,-,N/A,2017-11-30
+All In One Coins ICO,AIO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.1,-,N/A,2017-09-25
+Zero Value,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-20
+Amical Properties,AMI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.2,-,N/A,2017-12-01
+Zero Value,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-20
+Aleph Market,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.8,-,N/A,2017-10-31
+Aleph Market,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.8,-,N/A,2017-10-31
+Balance,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-27
+711 token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-05
+BITRAD.IO,BRO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Apr, 2017"
+Silkos,SLK,Ethereum,"
+30,000,000 SLK (100%)",N/A,1200000,N/A,Unknown,N/A,N/A,N/A,1,1,1,-,-,6,Benchy,N/A,1,N/A,N/A,1.6,4.4,1.2,1.6,2017-11-26
+ETHEREUM META,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-31
+BTCMoon,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-30
+SILC,SILC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-25
+ZCash Gold,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-20
+Kitchan Network,,N/A,N/A,N/A,N/A,N/A,N/A,3600000,300000,N/A,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-07
+We Bet Crypto,WBC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+ETH888 ICO,VAN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+PiplCoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Sep, 2017"
+Veritaseum,VERI,N/A,N/A,N/A,N/A,N/A,64808823511721471485,N/A,N/A,100,-,5,5,-,-,N/A,Benchy,1.0,N/A,1.0,1.0,-,-,-,1.6,2017-05-26
+CryptoHive,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-11
+PornToken ICO,PTWO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-14
+OACCOIN ICO,OAC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+Puffcoin Token Sale,WEEB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-06
+MIPS Token Sale,MIPS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-20
+MOVIECREDITS (EMVC),,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-15
+Shitcoin,SHIT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-19
+Fuck Token ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-07-28
+EthereumMovieVenture,EMV,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-05-15
+BITPARK,BITPARK,N/A,N/A,Japan,N/A,N/A,N/A,N/A,N/A,100,1,2,2,-,-,5,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-10-20
+VI Coin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+RxSmartCoffee ICO,,Waves,Utility,USA,N/A,N/A,N/A,N/A,N/A,100,-,1,1,-,-,1,N/A,N/A,6,N/A,N/A,N/A,N/A,-,N/A,2017-11-06
+Kasorrga,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+Crypto Grip Initiative,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-14
+Tlind,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Nov, 2017"
+Bitpaid,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Dec, 2017"
+Energolabs,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-15
+Balance Initial Crowd Offering,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+Digital Assets Power Play,DPP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-26
+VouchCoin,,Ethereum,ERC-20,Philippines,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,2,N/A,N/A,1,N/A,N/A,N/A,3.7,-,N/A,2017-10-21
+Eggs Datacenter,EGS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-15
+Titus Coin ICO,TTS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-19
+[NSFW] FAPcoin,FAP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Nov, 2017"
+BitRootZ,BRZ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-05
+RouletteToken,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-04-10
+s3entigrapH,GRAPH,Waves,"
+150 Graph",UK,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,1,N/A,N/A,1,N/A,N/A,1.3,N/A,1.2,N/A,2017-09-13
+BETNetwork,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+SWAP,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Oct, 2017"
+CoinsOpen,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-20
+Halo Platform,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-16
+WINBOT,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Dec, 2017"
+SQTOKEN,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Nov, 2017"
+Initial Coin Offering Token ICO,ICOT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-06
+ZuveX,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-24
+lltoken,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-26
+lltoken,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-26
+MilitaryPay,MTP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-12
+Good Karma,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Jun, 2017"
+Dollarydoos,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-08
+Dragon Exchange,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Nov, 2017"
+Bitcasts,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Oct, 2017"
+Kolion,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,2,2,5,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-05-01
+Satan Coin ICO,SATANCOIN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-25
+EtherBB,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.1,-,N/A,2017-12-04
+ALLOWANCE NETWORK,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-05
+WU-TANG COIN,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-31
+HODL Bucks,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-10
+Worthless Ethereum Token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-22
+Cyder Coin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-28
+KabutoCoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-07-22
+SIKKA,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-07-14
+GoCoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-23
+Phoenix,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-31
+IWW Exchange,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-01
+LIFECREDIT,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+Vitalik Token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-22
+OREN PLATFORM,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+METANIKA,TBA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-01
+OPTION TOKEN,,Ethereum,ERC-20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,7,N/A,N/A,1,N/A,N/A,N/A,N/A,-,N/A,2017-09-04
+Truckcoin GH ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+CATHER,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-28
+Red Ticket,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-07
+Spacium,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-10
+Crypto Apartments,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-30
+TorrentChain,,Tron,Utility,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,10,N/A,N/A,1,N/A,N/A,N/A,N/A,-,N/A,2017-09-09
+Blunner,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-25
+Venge,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,"Nov, 2017"
+SHOUCAIR,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-09
+SUPERIOR COIN,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+PETSAFE,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-30
+bEther Token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-31
+C1ph3r,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-30
+Anna,ANNA,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,1,1,1,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,1.3,3.8,1.0,1.3,2017-12-01
+Moeda (MLO) ICO,MDA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,3,N/A,N/A,N/A,N/A,N/A,N/A,1.8,N/A,1.8,N/A,2017-08-28
+7ype,7YPE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.3,3.0,1.4,N/A,2017-08-27
+BITBOUNCE / CREDO,CREDO,Ethereum,ERC20,USA,15465704,N/A,113307073121610000000,N/A,N/A,100,-,4,4,-,-,10,Benchy,N/A,1,N/A,N/A,2.4,6.3,2.4,2.4,2017-08-25
+Olympus Labs (MOT),,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Nov, 2017"
+Olympus Labs (MOT),,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,"Nov, 2017"
+KICKICO,KC,N/A,N/A,N/A,N/A,N/A,N/A,20000000,7000000,11,4,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-16
+MicroMoney,AMM,N/A,N/A,N/A,30000000,1000000,10500000,N/A,3000000000,45,5,-,-,-,2,N/A,Benchy,4.1,N/A,3.7,4.0,-,-,-,3.7,2017-11-18
+jboxcoin,JBOXCOIN,Ethereum,ERC20,USA,N/A,N/A,Unknown,N/A,N/A,N/A,-,5,5,-,5,10,Benchy,5.0,9,5.0,5.0,-,-,-,2.5,2017-12-08
+WorldCore,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10000000000,26,5,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-15
+SISA,SISA,Ethereum,ERC20,India,N/A,N/A,Unknown,N/A,N/A,N/A,5,2,2,-,-,6,Benchy,3.0,6.9,4.0,4.0,-,-,-,3.0,2017-12-20
+Binary.com ICO,BINARY,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+10 000 000.00 BINARY",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.6,7.4,2.7,N/A,2017-12-24
+Procommerce,USD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-02-26
+Game.com ICO,GTC,N/A,N/A,N/A,N/A,N/A,N/A,10000000,10000000,0,-,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-30
+AlpenCoin,ALPENCOIN,Ethereum,ERC-20,N/A,N/A,N/A,N/A,4900000,10000,1,2,1,1,-,-,5,N/A,N/A,10,N/A,N/A,N/A,N/A,3.6,N/A,2017-09-11
+Litra Coin,LTA,Litecoin,"
+29,999,997 LTA (30%)",Switzerland,29999997,N/A,23500000,N/A,N/A,N/A,5,1,1,-,-,5,Benchy,N/A,1,N/A,N/A,2.8,4.9,2.9,2.8,2017-09-30
+Vacuum,VAC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.7,4.8,2.8,N/A,2017-10-24
+Stayawhile,STAY,Ethereum,ERC20,USA,N/A,N/A,N/A,100000,50000,N/A,-,1,1,-,-,1,N/A,N/A,10,N/A,N/A,2.9,5.3,-,N/A,2017-12-11
+ZEMPA,ZEMPA,Waves,ERC20,Ukraine,4750000,N/A,Unknown,N/A,475000000,N/A,3,1,1,-,-,2,Benchy,N/A,8,N/A,N/A,2.6,5.2,2.9,2.6,2017-11-30
+Power Group,POWER,N/A,N/A,N/A,12500,N/A,Unknown,1250000,500000,N/A,5,2,2,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,2.4,4.6,-,2.4,2017-12-01
+Authorship ICO,ATS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-14
+StockBlock,XMC,Ethereum,ERC20,India,68750,25000,Unknown,6875000,2500000,N/A,3,2,2,-,-,6,Benchy,N/A,1,N/A,N/A,2.6,5.4,2.0,2.6,2017-11-25
+ICO Reveal,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.6,N/A,2017-08-26
+AML Bitcoin ICO,ATK,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-15
+Daseron,DSR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,2.2,6.7,1.9,N/A,2017-09-14
+Cryptobank,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-01
+The puff puff network,WEEB,N/A,N/A,N/A,N/A,N/A,N/A,18400,"
+75.00 ",0,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.2,N/A,2017-08-31
+HARBOR,HBR,Ethereum,ERC20,Singapore,N/A,N/A,Unknown,N/A,150000,N/A,-,1,1,-,-,1,Benchy,N/A,10,N/A,N/A,3.0,5.5,-,3.0,2017-11-13
+Moirai,MOI,N/A,N/A,N/A,N/A,N/A,N/A,450000000,100000000,N/A,5,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-30
+Air platform,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-06-30
+CRAZYBET,CBET,Ethereum,ERC20,Latvia,7000,1000,2595076,N/A,N/A,N/A,-,2,2,-,-,5,Benchy,N/A,1,N/A,N/A,2.1,4.6,1.8,2.1,2017-07-25
+Pixiu,PIXIU,N/A,N/A,N/A,N/A,N/A,N/A,7000000,500000,0,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.4,4.4,-,N/A,2017-11-10
+AnonHotels,PRIV,N/A,N/A,Poland,357000,100000,Unknown,35700000,10000000,N/A,-,2,2,-,-,5,Benchy,2.5,5,2.2,3.4,2.5,4.8,2.3,2.5,2017-12-06
+Tithecoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-03-31
+Kencoin,KCN,Ethereum,"
+600,000,000 KCN",Switzerland,N/A,N/A,Unknown,N/A,N/A,100,-,-,-,-,-,8,Benchy,N/A,10,N/A,N/A,-,-,-,2.4,2017-09-11
+IcoBid,USD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.0,N/A,2017-01-10
+Ziber,ZBR,N/A,N/A,N/A,N/A,N/A,N/A,5000000,500000,0,5,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.6,2.4,3.0,N/A,2017-08-01
+VirtuTV,VRTU,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.1,4.8,2.3,N/A,2017-09-09
+PlexCoin,PLX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+400 000 000.00 PLX",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.1,N/A,-,N/A,2017-11-30
+Crowd Crypto Fund,CCFC,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,N/A,N/A,-,-,-,-,-,N/A,Benchy,2.0,N/A,2.4,2.6,2.1,2.1,2.1,2.1,2017-12-31
+MaskNetwork,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-06-30
+Abab DAO,AAA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+290 000 000.00 AAA",N/A,2,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.8,3.3,2.2,N/A,2017-10-15
+REcoin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,102400000,292,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.2,N/A,2017-10-09
+StayAllied,,Ethereum,ERC20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,2,Benchy,N/A,1,N/A,N/A,1.8,2.8,-,1.8,2017-12-31
+WesterosToken,TOKEN WST,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-25
+SwishCoin,TM-SWISHCOIN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-01-14
+CryptoSlots,SPIN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-19
+SPARK COIN,,N/A,N/A,N/A,N/A,N/A,10560000,N/A,N/A,N/A,2,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,1.3,1.8,1.9,1.3,2017-12-31
+Ascendancy,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-03-10
+Consolo,CSL,Ethereum,ERC20,Russia,975000000,N/A,Unknown,N/A,4000000,N/A,-,1,1,-,-,1,Benchy,N/A,1,N/A,N/A,1.8,3.0,1.5,1.8,2017-12-25
+FoxCasino ICO,FXN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.2,2.7,2.3,N/A,2017-12-31
+BTCsearch,BTCSEARCH,N/A,N/A,Russia,N/A,N/A,Unknown,N/A,"Cap
+1 000 000.00 TOKENS",N/A,2,1,1,-,-,1,Benchy,2.0,1,2.0,2.0,1.7,2.1,1.7,1.7,2017-12-31
+Protostarr,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-10
+TribeToken,TRIBE,Ethereum,"
+160,000,000 TRIBE",Netherlands,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,1,5,N/A,N/A,1,N/A,N/A,1.7,4.2,2.0,N/A,2017-08-14
+Solvena,SLN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-08-20
+BOCC,BOCC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.4,N/A,-,N/A,2017-12-15
+SqPay,ITO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9000000000,0,5,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-02
+EnKo,NAME: ENKO (PEACH-EMOJI),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-28
+Quantopia,CM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+31 415 926.00 CM",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-19
+Agricoin ICO,AGC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+24 600 000.00 AGC",N/A,-,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-20
+TewTew,TEWTEW,Ethereum,ERC20,N/A,N/A,N/A,Unknown,N/A,"
+20 000 000.00 TEWTEW",N/A,-,-,-,-,-,1,Benchy,1.0,1,1.0,1.0,1.2,2.3,1.5,1.2,2017-10-31
+Flowfeed ICO,FFT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.6,1.9,-,N/A,2017-12-13
+FACECOIN,,N/A,N/A,N/A,N/A,N/A,N/A,200000,200000,16,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-15
+Neurobot ICO,NEB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.5,4.4,1.4,N/A,2017-12-31
+SoccerChain,,NEO,NEO,Malta,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,7,N/A,N/A,4,N/A,N/A,N/A,N/A,-,N/A,2017-08-09
+Wounded Warrior Coin,WWC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+480 000 000.00 WWC",N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-31
+Beertoken,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+Centra,CTR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,1,1,-,-,N/A,Benchy,1.0,N/A,1.0,1.2,-,-,-,1.3,2017-10-05
+Everum,EST,N/A,N/A,N/A,N/A,N/A,N/A,N/A,340000000,N/A,2,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-30
+Dr. Oss Coin,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000000000,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.2,1.6,-,N/A,2017-12-12
+ZipCoin ICO,ZIP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+7 000 000.00 ZIP",N/A,-,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-30
+AUcoin,AUC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-30
+Key’ Token,KEY,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-25
+ICOMG,ICOMG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"
+9 000 000.00 ICOMG",N/A,1,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-06
+NoTraffic,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-31
+Globus,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-15
+Synthorn,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-30
+0x2x Exchange Protocol,,N/A,N/A,N/A,N/A,N/A,N/A,2000000,500000,25,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-29
+HealPoint.io,,N/A,N/A,USA,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,2,N/A,N/A,10,N/A,N/A,2.7,4.6,2.8,N/A,2017-10-09
+AriseBank,ACO,Separate blockchain,"
+833,333,333 ACO",USA,1000000000,750000000,Unknown,N/A,N/A,N/A,-,3,3,-,-,10,Benchy,N/A,9,N/A,N/A,2.7,8.1,-,2.7,2017-12-26
+Borg DAO,BRG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.4,N/A,2017-11-28
+Coinoor,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-15
+World of Battles,WOB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-14
+EVO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,4.6,N/A,-,N/A,2017-10-13
+F*CK TRUMP ICO,FTRUMP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-08
+WWAM,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-12
+CryptoMart ICO,CMC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-25
+LENDCONNECT,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-12
+ConnectWealth ICO,WEALTH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-13
+GAMECASH,GCSH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-23
+VT-City ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-15
+InTimeGame ICO,ITG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-16
+Piranha ICO,PRNA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-01
+Cooperix ICO,COO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-30
+Moneypot X (MPX) ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-03
+Genevieve Gx,GX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,1.4,N/A,-,N/A,2017-09-25
+Global Money Transfer,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-15
+Tokens.Property,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+DIMND,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-12-10
+Flipz,FLZ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-08
+Beth,,Ethereum,ERC20,Portugal,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,6,N/A,N/A,10,N/A,N/A,N/A,N/A,-,N/A,"Jun, 2017"
+Luxcoin,LUX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-10-21
+DONE,DONE,Ethereum,ERC20,USA,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,8,N/A,N/A,10,N/A,N/A,N/A,N/A,-,N/A,2017-12-31
+Schmeckle Token,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-09-22
+Feenix,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-09
+Livebetcoin ICO release LVBC,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-19
+TRON,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-10
+EthLend,LEND,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3760000,15,3,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-27
+Stox,STX,N/A,N/A,N/A,N/A,N/A,N/A,14800000,14800000,7,5,5,5,-,3,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-04
+Enjin Crowdsale,ENJ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8200000,90,4,1,1,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-31
+Naga Group,NGC,N/A,N/A,N/A,N/A,N/A,N/A,22000000000,22000000000,22,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-15
+TrustedCars Flex,FLEX,N/A,N/A,N/A,"42,000,000","1,600,000",Unknown,250000000,250000000,200,4,2,2,-,2,N/A,Benchy,4.7,N/A,4.3,4.5,-,-,-,4.4,2017-10-31
+Sirin Labs,SRN,N/A,N/A,N/A,75000000,25000000,157885825,N/A,2500000000,631,3,5,5,-,4,N/A,Benchy,4.2,N/A,3.3,3.9,-,-,-,3.6,2017-12-25
+DMarket,DMT,N/A,N/A,N/A,N/A,N/A,N/A,5000000,500000,12,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-28
+Bloom,BLT,N/A,N/A,N/A,50000000,N/A,40000000,N/A,5000000000,87,-,1,1,-,3,N/A,Benchy,3.4,N/A,3.2,3.9,-,-,-,3.2,2017-12-14
+ICON,ICX,N/A,N/A,N/A,150000,N/A,45000000,N/A,N/A,100,2,5,5,-,-,N/A,Benchy,3.4,N/A,3.9,4.1,-,-,-,3.8,2017-10-12
+Universa,UTN,N/A,N/A,N/A,99000000,N/A,28800000,2880006000,9900000000,29,5,4,4,-,4,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,2.8,2017-11-30
+Snip ICO,TM-SNP,N/A,N/A,N/A,N/A,N/A,N/A,3000000,2836800,10,3,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-28
+Snip ICO,TM-SNP,N/A,N/A,N/A,N/A,N/A,N/A,3000000,2836800,10,3,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-28
+Crypto20,C20,N/A,N/A,N/A,N/A,N/A,N/A,8620689600,7500000000,50,-,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-30
+Cryptopay,CPAY,Ethereum,ERC20,Estonia,150000,"1,000,000 ",18000000,N/A,N/A,100,5,4,4,-,-,8,Benchy,4.7,10,3.8,3.8,-,-,-,3.7,2017-10-30
+Cryptopay,CPAY,Ethereum,ERC20,Estonia,150000,"1,000,000 ",18000000,N/A,N/A,100,5,4,4,-,-,8,Benchy,4.7,10,3.8,3.8,-,-,-,3.7,2017-10-30
+Finom,FIN,Ethereum,ERC20,Switzerland,101970000,N/A,41346171,N/A,N/A,100,-,3,3,-,-,9,Benchy,4.0,7.3,3.8,4.0,3.1,8.1,3.9,3.1,2017-12-30
+Finom,FIN,Ethereum,ERC20,Switzerland,101970000,N/A,41346171,N/A,N/A,100,-,3,3,-,-,9,Benchy,4.0,7.3,3.8,4.0,3.1,8.1,3.9,3.1,2017-12-30
+Seratio Platform ICO,SER,N/A,N/A,N/A,N/A,N/A,N/A,N/A,500000000,1,5,3,3,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.3,6.7,3.8,N/A,2017-10-31
+Sola ICO,SOL,N/A,N/A,N/A,N/A,N/A,N/A,500000000,75000000,44,2,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.7,8.0,4.4,N/A,2017-12-22
+Propy,PRO,N/A,N/A,N/A,100000000,N/A,15077000107200000000,N/A,3500000000,43,-,5,5,-,3,N/A,Benchy,5.0,N/A,4.0,5.0,-,-,-,3.5,2017-09-15
+Propy,PRO,N/A,N/A,N/A,100000000,N/A,15077000107200000000,N/A,3500000000,43,-,5,5,-,3,N/A,Benchy,5.0,N/A,4.0,5.0,-,-,-,3.5,2017-09-15
+Propy,PRO,N/A,N/A,N/A,100000000,N/A,15077000107200000000,N/A,3500000000,43,-,5,5,-,3,N/A,Benchy,5.0,N/A,4.0,5.0,-,-,-,3.5,2017-09-15
+Cindicator Token Sale,CND,N/A,N/A,N/A,N/A,N/A,N/A,1500000000,1500000000,100,3,1,1,-,3,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-12
+BANCOR Network,BNT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25000000,20,5,2,2,-,5,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-06-12
+WAX,WAX,Ethereum,ERC20,N/A,N/A,N/A,N/A,7000000,2000000,37,-,1,1,-,-,10,Benchy,N/A,5,N/A,N/A,3.3,N/A,3.8,2.8,2017-11-29
+Tigereum Token Swap,TIG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-18
+True Flip (TFL),TFL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,737090000,79,5,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-07-25
+GUTS Tickets,GET,N/A,N/A,N/A,"15,000,000 ","2,300,000 ",75000001093500000000,5700000,5700000,4,5,-,-,-,3,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,3.3,2017-12-15
+Humaniq,HMQ,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-04-27
+NAU,NAU,Ethereum,ERC20,Russia,20000000,5000000,116841368500000014375600000042083000000,900000000,500000000,4,-,2,2,-,2,9,Benchy,5.0,9,5.0,5.0,3.5,8.2,3.1,3.5,2017-12-29
+HACKEN,HKN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1600000000,31,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-30
+NAU,NAU,Ethereum,ERC20,Russia,20000000,5000000,116841368500000014375600000042083000000,900000000,500000000,4,-,2,2,-,2,9,Benchy,5.0,9,5.0,5.0,3.5,8.2,3.1,3.5,2017-12-29
+HACKEN,HKN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1600000000,31,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-30
+PARAGON,PRG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-15
+PARAGON,PRG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-15
+Ambrosus,AMB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,2,2,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-12
+TokenBox,TBX,N/A,N/A,N/A,20000000,N/A,8000000,2000000000,300000000,36,5,2,2,-,2,N/A,Benchy,3.2,N/A,3.2,3.7,-,-,-,3.6,2017-11-28
+Aeron,ARN,N/A,N/A,N/A,N/A,N/A,N/A,3000000000,3000000000,16,5,5,5,-,5,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-15
+Aeron,ARN,N/A,N/A,N/A,N/A,N/A,N/A,3000000000,3000000000,16,5,5,5,-,5,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-15
+Snovio,SNOV,N/A,N/A,N/A,15000000,N/A,2100000,1000000000,500000000,42,5,-,-,-,2,N/A,Benchy,3.7,N/A,3.1,3.4,-,-,-,3.2,2017-11-30
+Investfeed,IFT,N/A,N/A,N/A,N/A,N/A,N/A,2800000,150000,88,5,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-07
+Confideal,CDL,Ethereum,ERC20,Russia,70000,N/A,Unknown,7000000,7000000,0,5,2,2,-,-,10,Benchy,3.9,9,3.6,3.4,3.4,8.8,4.3,3.4,2017-11-22
+Algory Project,ALG,N/A,N/A,N/A,60000,N/A,997703,N/A,N/A,N/A,4,2,2,-,1,N/A,Benchy,3.7,N/A,3.3,3.9,-,-,-,3.4,2017-12-08
+Tokenlab,LAB,N/A,N/A,N/A,5000000,3500000,Unknown,N/A,500000,29,5,-,-,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,3.7,8.6,4.2,2.7,2017-10-14
+Minerva Token Sale,,N/A,N/A,N/A,N/A,N/A,N/A,3500000000,3500000000,N/A,5,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,3.9,8.7,4.0,N/A,2017-11-19
+Flixxo,FLIXX,N/A,N/A,N/A,35000,5000,5000000,N/A,2090000000,23,5,4,4,-,2,N/A,Benchy,4.0,N/A,4.0,5.0,-,-,-,3.0,2017-11-23
+Minerva Token Sale,,N/A,N/A,N/A,N/A,N/A,N/A,3500000000,3500000000,N/A,5,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,3.9,8.7,4.0,N/A,2017-11-19
+Flixxo,FLIXX,N/A,N/A,N/A,35000,5000,5000000,N/A,2090000000,23,5,4,4,-,2,N/A,Benchy,4.0,N/A,4.0,5.0,-,-,-,3.0,2017-11-23
+Hive Project,,N/A,N/A,N/A,N/A,N/A,N/A,16800000,3360000,8,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-14
+Giga Watt,WTT,N/A,"Total supply:
+17,300,000 WTT",USA,N/A,N/A,N/A,13513800,13513800,5,-,-,-,-,2,8,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-07-31
+bitJob,STU,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3500000,2,5,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-13
+ICOS,,Ethereum,ERC20,Russia,N/A,N/A,14600000393300000000,N/A,N/A,100,-,-,-,-,-,8,Benchy,4.4,10,3.9,4.5,3.5,7.4,4.2,3.5,2017-09-15
+AirToken,AIR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2100000000,71,5,4,4,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-19
+United Traders,UTT,N/A,N/A,N/A,"65,000,000",N/A,32000000,N/A,6500000000,50,5,-,-,-,-,N/A,Benchy,3.6,N/A,3.3,3.5,-,-,-,3.3,2017-12-24
+Neufund ICBM,NEU,N/A,N/A,N/A,N/A,N/A,N/A,N/A,175068400,0,1,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-17
+OmiseGO,OMG,N/A,N/A,N/A,25000000,8000000,25000000,N/A,5500000,15,4,2,2,-,-,N/A,Benchy,3.6,N/A,5.0,5.0,-,-,-,3.8,2017-07-03
+Filecoin,FIL,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-07
+COSS,COSS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-06
+CommerceBlock,CBT,Binance Chain,BEP-20,N/A,N/A,N/A,N/A,2500000000,200000000,35,-,3,3,-,-,1,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-12-19
+Bitclave,CAT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,2,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-08
+Bitclave,CAT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,2,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-08
+CRYPTO TICKETS,TKT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.5,8.1,4.1,N/A,2017-11-05
+Ties Network,TIE,N/A,N/A,N/A,N/A,N/A,N/A,4200000000,3360000000,27,5,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-12
+Tierion,TNT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2500000000,488,-,5,5,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-10
+Tetarise,TTR,N/A,N/A,N/A,10000000,N/A,N/A,10000000000,50000000,N/A,5,1,1,-,-,1,Benchy,N/A,10,N/A,N/A,2.9,5.0,3.4,2.9,2017-12-05
+Tierion,TNT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2500000000,488,-,5,5,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-10
+Tetarise,TTR,N/A,N/A,N/A,10000000,N/A,N/A,10000000000,50000000,N/A,5,1,1,-,-,1,Benchy,N/A,10,N/A,N/A,2.9,5.0,3.4,2.9,2017-12-05
+STARBASE,STAR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,200000000,437,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-24
+QUOINE’s QASH,QASH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5000000,68,3,1,1,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-05
+1World Online,1WO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,2,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-16
+QUOINE’s QASH,QASH,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5000000,69,3,1,1,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-05
+Esports.com,ERT,N/A,N/A,N/A,N/A,N/A,N/A,200000000,"
+2 000 000.00 EURO",26,5,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-01
+Hedge Token,HDG,Ethereum,"
+30,000,000 HDG (60%)",Slovenia,15000000,1500000,2100000,5000000,500000,14,5,3,3,-,-,8,Benchy,4.2,8,4.0,4.5,-,-,-,3.9,2017-10-15
+TenX,PAY,N/A,N/A,N/A,N/A,N/A,N/A,20000000,20000000,13,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-06-24
+Eloplay,ELT,N/A,N/A,N/A,N/A,N/A,N/A,1200000000,300000000,11,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.0,7.6,3.4,N/A,2017-11-15
+HelloGold,HGT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-02
+SENSE,SENSE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-06
+Horizon State,HST,N/A,N/A,N/A,200000,N/A,1000000,20000000,7000000,0,2,4,4,-,2,N/A,Benchy,4.0,N/A,4.5,4.0,-,-,-,3.5,2017-10-15
+Lordmancer II,LC,N/A,N/A,N/A,1875000,N/A,1204448181752000000,N/A,N/A,100,5,2,2,-,-,N/A,Benchy,3.8,N/A,3.6,3.7,3.4,7.1,4.1,3.4,2017-12-19
+ProsenseLive,VRP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3000000000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.4,7.9,3.6,N/A,2017-12-16
+BitDegree,BDG,N/A,N/A,N/A,30000,16000,22500000,7650000,1912500,37,4,3,3,-,-,N/A,Benchy,3.6,N/A,3.4,4.2,-,-,-,3.8,2017-12-14
+ProsenseLive,VRP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3000000000,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.4,7.9,3.6,N/A,2017-12-16
+BitDegree,BDG,N/A,N/A,N/A,30000,16000,22500000,7650000,1912500,37,4,3,3,-,-,N/A,Benchy,3.6,N/A,3.4,4.2,-,-,-,3.8,2017-12-14
+FUELD App,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.1,5.5,3.8,N/A,2017-12-23
+Realisto,REA,Ethereum,N/A,Germany,N/A,1500000,1531146,N/A,N/A,100,5,-,-,-,-,5,Benchy,3.6,9,4.5,3.5,-,-,-,3.3,2017-12-25
+CRYCASH ICO,CRC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,2,2,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-12
+TaaS,TAAS,N/A,N/A,N/A,N/A,N/A,N/A,8260000,"
+1 000.00 ",16,3,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-04-28
+EventChain,EVC,N/A,N/A,N/A,N/A,N/A,Unknown,5000000,2000000,1,4,5,5,-,3,N/A,Benchy,2.8,N/A,2.8,4.0,-,-,-,3.2,2017-10-14
+TaaS,TAAS,N/A,N/A,N/A,N/A,N/A,N/A,8260000,"
+1 000.00 ",16,3,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-04-28
+Aventus,AVT,N/A,N/A,N/A,N/A,N/A,N/A,6000000,2400000,27,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-12
+Rockchain,ROK,Ethereum,"
+80,000,000 ROK (80%)",France,N/A,N/A,N/A,10000000,1800000,0,3,-,-,-,-,6,N/A,N/A,10,N/A,N/A,3.5,7.6,4.0,N/A,2017-12-01
+SONM,SNM,N/A,N/A,N/A,273399,N/A,42000000,23739900,100000,5,4,5,5,-,3,N/A,Benchy,5.0,N/A,4.0,5.0,-,-,-,2.9,2017-06-18
+Anryze,RYZ,Waves,"
+331,700,000 RYZ (93.9%)",Russia,6000000,1600000,1600000,N/A,N/A,100,3,3,3,-,-,8,Benchy,4.4,7,3.8,4.4,-,-,-,3.2,2017-10-12
+Eristica,,N/A,N/A,N/A,10000000,1000000,3138109,N/A,1000000000,30,5,-,-,-,1,N/A,Benchy,4.0,N/A,3.4,3.4,-,-,-,3.7,2017-12-29
+Cobinhood,COB,Ethereum,"
+750,000,000 CBC (55%)",N/A,N/A,N/A,N/A,N/A,N/A,100,4,5,5,-,3,3,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-10-22
+DIMCOIN,DIM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000000000,50,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-27
+MyBit,MYB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4487500,2,5,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-14
+Lampix,PIX,N/A,N/A,N/A,60000000,5000000,142000004092100000000,N/A,N/A,100,-,3,3,-,1,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,3.0,2017-08-18
+"Investy
+[Canceled]",IVC,Ethereum,ERC20,Russia,N/A,N/A,N/A,1420000000,320000000,N/A,2,2,2,-,1,6,N/A,N/A,9,N/A,N/A,3.5,7.5,3.5,N/A,2017-12-23
+Populous,PPT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15200000,2,4,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-15
+Dala Token Sale,DALA,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,5,3,3,-,1,N/A,N/A,N/A,N/A,N/A,N/A,2.8,6.7,3.9,N/A,2017-12-11
+"Investy
+[Canceled]",IVC,Ethereum,ERC20,Russia,N/A,N/A,N/A,1420000000,320000000,N/A,2,2,2,-,1,6,N/A,N/A,9,N/A,N/A,3.5,7.5,3.5,N/A,2017-12-23
+Starta,CRS,Ethereum,ERC20,France,N/A,N/A,50000009090000000052000000000041680000000020342200000000,N/A,N/A,N/A,3,-,-,-,1,3,Benchy,N/A,1,N/A,N/A,-,-,-,2.2,2017-08-03
+Godzillion,GODZ,Ethereum,ERC20,Chile,N/A,N/A,N/A,N/A,"
+27 990.00",65,-,2,2,-,-,7,N/A,N/A,10,N/A,N/A,3.2,7.7,3.8,N/A,2017-09-02
+Paycent,PYN,N/A,N/A,N/A,450000,N/A,Unknown,N/A,"Cap
+270 000 000.00 PYN",205,3,-,-,-,3,N/A,Benchy,3.0,N/A,3.0,3.0,-,-,-,3.0,2017-11-30
+CanYa,CAN,N/A,N/A,N/A,19333,N/A,12000000,7876900,2000000,13,-,2,2,-,-,N/A,Benchy,3.1,N/A,3.0,3.8,-,-,-,3.1,2017-12-14
+CanYa,CAN,N/A,N/A,N/A,19333,N/A,12000000,7876900,2000000,13,-,2,2,-,-,N/A,Benchy,3.1,N/A,3.0,3.8,-,-,-,3.1,2017-12-14
+CopPay,COP,Ethereum,ERC20,Belarus,65800,N/A,Unknown,N/A,"
+75 000 000.00 COP",0,-,1,1,-,-,8,Benchy,3.7,10,3.9,3.4,3.2,8.4,4.1,3.2,2017-11-30
+ATB Coin,ATB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10000000,3,5,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-31
+Spheris ICO,SPRS,Ethereum,ERC20,Israel,N/A,N/A,N/A,N/A,"Cap
+2 000 000 000 000.00 SPRS",0,5,-,-,-,-,6,N/A,N/A,10,N/A,N/A,2.8,7.2,3.3,N/A,2017-10-19
+ATB Coin,ATB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10000000,3,5,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-31
+Transmission,TMN,Ethereum,ERC20,Hong Kong,N/A,N/A,N/A,N/A,N/A,N/A,3,2,2,-,-,6,N/A,N/A,10,N/A,N/A,3.0,7.6,3.7,N/A,2017-09-08
+Homni ICO,HOMNI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.5,5.0,3.7,N/A,2017-12-26
+Rivetz,RVT,N/A,N/A,N/A,200000,N/A,19710000,N/A,N/A,100,5,4,4,-,-,N/A,Benchy,3.8,N/A,3.9,4.6,-,-,-,3.3,2017-09-10
+Afterschool,,Ethereum,"
+480,000,000 AST (60%)",United Arab Emirates,N/A,N/A,N/A,5000000,5000000,1,5,3,3,-,-,7,N/A,N/A,7,N/A,N/A,3.2,7.1,4.2,N/A,2017-10-25
+Rivetz,RVT,N/A,N/A,N/A,200000,N/A,19710000,N/A,N/A,100,5,4,4,-,-,N/A,Benchy,3.8,N/A,3.9,4.6,-,-,-,3.3,2017-09-10
+Obsidian Platform,ODN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1300000,10,3,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-19
+goldmint,MNTP,N/A,N/A,N/A,49000000,N/A,7300000,N/A,4900000000,14,5,3,3,-,3,N/A,Benchy,3.1,N/A,2.7,3.0,-,-,-,3.0,2017-10-20
+Po.et,POE,N/A,N/A,N/A,N/A,N/A,N/A,6650000,6650000,5,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-08
+Exscudo,EON,N/A,N/A,N/A,N/A,N/A,N/A,3000000,"
+1 000.00 ",11,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.9,6.6,3.2,N/A,2017-05-31
+Corion Platform,COR,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-07-30
+ZrCoin,ZRC,N/A,N/A,N/A,N/A,N/A,N/A,7000000,3500000,6,5,4,4,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-06-09
+Reality Clash,RCC,N/A,"
+50,000,000 RCC",UK,N/A,N/A,N/A,2000000000,150000000,12,5,4,4,-,-,10,N/A,N/A,1,N/A,N/A,-,-,-,N/A,2017-09-29
+OpenMoney,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.5,N/A,-,N/A,2017-11-04
+CyberMiles ICO,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,4,5,5,-,5,N/A,N/A,N/A,N/A,N/A,N/A,3.2,N/A,3.7,N/A,2017-12-05
+SophiaTX,SPHTX,N/A,N/A,N/A,115000,N/A,7300000,N/A,11500000,6,-,5,5,-,3,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,2.9,2017-12-15
+Polybius,PLBT,N/A,N/A,N/A,N/A,N/A,31000000,2500000,"
+1 500.00 ",46,-,-,-,-,-,N/A,Benchy,4.0,N/A,4.0,4.0,-,-,-,2.8,2017-06-13
+Kin,KIN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-30
+CREDO,CRD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2480000000,0,-,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.2,N/A,2017-07-09
+Publica,PBL,N/A,N/A,N/A,N/A,N/A,N/A,5100000000,5100000000,2,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-01
+Gaze Coin,GZE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3500000000,11,5,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-27
+FundCoin,FNDC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.0,N/A,2017-11-30
+Monaco,MCO,N/A,N/A,N/A,N/A,N/A,N/A,88800000,15000000,5,5,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-06-17
+DropDeck,,N/A,N/A,N/A,N/A,N/A,N/A,999900,2900000,12,5,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.3,7.7,3.6,N/A,2017-12-21
+Robomed Network,RBM,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.1,7.9,3.7,N/A,2017-12-20
+Soma,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12000000,1,5,-,-,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-26
+DropDeck,,N/A,N/A,N/A,N/A,N/A,N/A,999900,2900000,12,5,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.3,7.7,3.6,N/A,2017-12-21
+ongcoin,ONG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3500000000,3,-,-,-,-,3,N/A,N/A,N/A,N/A,N/A,N/A,2.4,5.8,4.4,N/A,2017-09-11
+[NSFW] SpankChain,SPANK,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-21
+Vezt,VZT,N/A,N/A,N/A,15000000,N/A,1380644,N/A,1500000000,10,2,3,3,-,-,N/A,Benchy,2.0,N/A,4.0,4.0,-,-,-,2.8,2017-12-03
+Goal Bonanza,GOAL,N/A,N/A,N/A,100000,1000000,900000021500000000230300000000636100000000,N/A,2500000000,6,5,2,2,-,-,N/A,Benchy,3.0,N/A,2.3,2.3,3.0,8.1,3.8,3.0,2017-12-15
+BitBoost token sale for the Block,BBT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2140000000,6,-,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-10
+Privatix Pre-ICO,PRIX,N/A,N/A,N/A,N/A,N/A,N/A,5714200,335000,23,5,3,3,-,2,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-16
+Just Dating Site,JDC,N/A,N/A,N/A,3056900,200000,328397,N/A,"
+700.00 ",1,5,-,-,-,-,N/A,Benchy,4.0,N/A,4.0,4.0,2.9,5.9,3.2,2.9,2017-09-30
+Just Dating Site,JDC,N/A,N/A,N/A,3056900,200000,328397,N/A,"
+700.00 ",1,5,-,-,-,-,N/A,Benchy,4.0,N/A,4.0,4.0,2.9,5.9,3.2,2.9,2017-09-30
+BlockPool,BPL,N/A,"Total supply:
+25,000,000 BPL",UK,N/A,N/A,N/A,N/A,1000000000,16,-,2,2,-,-,6,N/A,N/A,6,N/A,N/A,-,-,-,N/A,2017-06-30
+XRONOS,XPO,N/A,N/A,N/A,N/A,N/A,N/A,10000000,100000000,72,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.7,5.5,-,N/A,2017-10-21
+PLUSCOIN,PLC,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,3,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-12-31
+Cove Identity ICO,SHELLS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+100 000 000.00 SHELLS",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.2,7.0,3.3,N/A,2017-10-31
+Cove Identity ICO,SHELLS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cap
+100 000 000.00 SHELLS",N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.2,7.0,3.3,N/A,2017-10-31
+hubii.network,HBT,N/A,N/A,N/A,50000000,5000000,65000002226100000000,N/A,2500000,8,2,3,3,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,2.4,2017-09-24
+Verify,CRED,Ethereum,ERC20,Singapore,14500000,1500000,N/A,1450000000,250000000,N/A,5,3,3,-,-,7,Benchy,4.0,10,4.0,4.0,-,-,-,2.9,2017-12-29
+hubii.network,HBT,N/A,N/A,N/A,50000000,5000000,65000002226100000000,N/A,2500000,8,2,3,3,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,2.4,2017-09-24
+MobileGo,MGO,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-05-24
+SRG,SRG,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,-,-,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.2,8.3,3.3,N/A,2017-12-20
+fidentiaX,FDX,N/A,N/A,N/A,N/A,N/A,1551667,N/A,N/A,100,5,3,3,-,-,N/A,Benchy,3.5,N/A,3.0,3.7,-,-,-,3.2,2017-12-05
+HUNT.BET,HT,Ethereum,"
+15,000,000 HT (62%)",Seychelles,N/A,N/A,N/A,N/A,1500000000,0,5,2,2,-,-,7,N/A,N/A,1,N/A,N/A,2.9,5.1,3.4,N/A,2017-09-02
+DARFchain,DARF,"Ethereum,                                                                    Waves","
+84,000,000 DARF",Russia,120960000,N/A,Unknown,N/A,N/A,100,-,1,1,-,-,5,Benchy,2.0,5,4.0,4.0,3.1,5.7,3.3,3.1,2017-11-12
+Sinergia Blockchain,SNG,N/A,N/A,N/A,N/A,N/A,Unknown,N/A,"Cap
+50 000 000.00 SNG",N/A,2,1,1,-,-,N/A,Benchy,4.4,N/A,3.4,4.0,3.3,7.0,3.7,3.3,2017-11-29
+Ink Labs Foundation,,N/A,N/A,N/A,"11,000 ","7,500 ",N/A,1100000,"Cap
+7 500.00 ",N/A,-,4,4,-,-,N/A,Benchy,4.0,N/A,4.0,4.0,3.0,N/A,3.8,3.0,2017-12-04
+Equibit,EQB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.8,6.2,3.0,N/A,2017-04-01
+IGNIS,IGNIS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,5,5,-,3,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-04
+Solar Bankers,SUN,N/A,N/A,N/A,N/A,N/A,N/A,90700,"
+907.00 ",N/A,-,5,5,-,1,N/A,N/A,N/A,N/A,N/A,N/A,2.3,7.0,4.2,N/A,2017-12-31
+Equibit,EQB,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,2.8,6.2,3.0,N/A,2017-04-01
+Grid+,GRID,N/A,N/A,N/A,N/A,N/A,N/A,30000000000,9000000000,147,-,-,-,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-30
+Lunyr,LUN,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,3,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-04-26
+Carblox,CRX,Ethereum,ERC20,Germany,N/A,N/A,N/A,N/A,160000,2,2,1,1,-,-,4,N/A,N/A,8,N/A,N/A,2.8,5.6,-,N/A,2017-12-10
+Hdac,DAC,N/A,N/A,Switzerland,N/A,N/A,258000000,N/A,N/A,100,5,1,1,-,-,9,Benchy,N/A,1,N/A,N/A,2.9,5.6,4.1,2.9,2017-12-10
+Farad Pre-Sale and ICO,FRD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,-,3,3,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-14
+VibeHub,VIBE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100,2,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-09-21
+Pally,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,400000000,0,3,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-11-30
+Matchpool,GUP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,500000000,114,5,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-04-30
+ScriptDrop Token Sale,TOKENS,N/A,N/A,N/A,N/A,N/A,N/A,3190000000,"
+17 500 000.00 AHC",N/A,2,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.4,5.8,3.3,N/A,2017-11-14
+Styras,STY,Ethereum,"
+200,000,000 STY (90%)",N/A,"200,000,000","840,000",Unknown,20000000000,"
+840 000.00 STY",N/A,-,-,-,-,1,6,Benchy,N/A,10,N/A,N/A,2.6,6.4,3.0,2.6,2017-12-30
+TokenFunder,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000000000,N/A,-,2,2,-,-,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,N/A,2017-11-30
+Zonto,ZONTO,Ethereum,"
+1,872,221 ZONTO",Estonia,10000000,500000,6384122,N/A,N/A,N/A,5,3,3,-,-,7,Benchy,3.8,10,3.2,2.8,3.2,7.9,3.4,3.2,2017-10-12
+CLOUT,CLOUT,Ethereum,ERC223,Gibraltar,50000000,N/A,2550450,N/A,5000000000,N/A,2,3,3,-,-,6,Benchy,3.8,8.5,2.2,3.2,-,-,-,3.0,2017-12-17
+Change Bank,CAG,N/A,N/A,N/A,200000,N/A,17500000,25000000,6000000,14,5,-,-,-,-,N/A,Benchy,4.3,N/A,3.4,3.8,3.1,N/A,3.8,3.3,2017-10-16
+UnikoinGold - Unikrn,UNIKOINGOLD,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11000000,9,-,5,5,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-01
+Viuly,,Ethereum,ERC20,Moldova,N/A,N/A,N/A,N/A,N/A,N/A,5,4,4,-,2,8,N/A,N/A,10,N/A,N/A,-,-,-,N/A,2017-11-15
+IMMLA,IML,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4671800,0,3,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-10-15
+CLOUT,CLOUT,Ethereum,ERC223,Gibraltar,50000000,N/A,2550450,N/A,5000000000,N/A,2,3,3,-,-,6,Benchy,3.8,8.5,2.2,3.2,-,-,-,3.0,2017-12-17
+Hut34 Project,,N/A,N/A,N/A,30000000,N/A,3400000,N/A,N/A,100,5,2,2,-,1,N/A,Benchy,3.8,N/A,3.1,3.0,-,-,-,3.3,2017-12-07
+Orocrypt,OROC,Ethereum,ERC20,N/A,2000,"1,200,000 ",1392000,N/A,5600000,0,2,-,-,-,1,8,Benchy,N/A,7,N/A,N/A,-,-,-,2.9,2017-07-14
+Hut34 Project,,N/A,N/A,N/A,30000000,N/A,3400000,N/A,N/A,100,5,2,2,-,1,N/A,Benchy,3.8,N/A,3.1,3.0,-,-,-,3.3,2017-12-07
+OX Fina,OX,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-07-31
+DigiPulse,DGT,Ethereum,ERC20,Latvia,44650,500,77547000000,6000000,800000,3,5,-,-,-,-,9,Benchy,3.2,10,3.2,4.7,-,-,-,3.4,2017-10-31
+Bounty0x,BNTY,N/A,N/A,N/A,10000000,7000000,Unknown,N/A,N/A,100,3,4,4,-,-,N/A,Benchy,N/A,N/A,N/A,N/A,-,-,-,2.2,2017-12-15
+CycloShieldCoin ICO,CYS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.0,6.9,-,N/A,2017-12-20
+Paytailor,PTT,Ethereum,ERC20,Estonia,20000,N/A,Unknown,N/A,N/A,N/A,1,1,1,-,-,6,Benchy,3.0,10,4.0,4.0,3.0,7.0,3.5,3.0,2017-12-20
+DigiPulse,DGT,Ethereum,ERC20,Latvia,44650,500,77547000000,6000000,800000,3,5,-,-,-,-,9,Benchy,3.2,10,3.2,4.7,-,-,-,3.4,2017-10-31
+CycloShieldCoin ICO,CYS,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,1,1,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.0,6.9,-,N/A,2017-12-20
+Paytailor,PTT,Ethereum,ERC20,Estonia,20000,N/A,Unknown,N/A,N/A,N/A,1,1,1,-,-,6,Benchy,3.0,10,4.0,4.0,3.0,7.0,3.5,3.0,2017-12-20
+Dolphin,DBIP,Ethereum,ERC20,Russia,N/A,N/A,N/A,62500000,"
+500 000.00 DBIP",3,-,1,1,-,1,2,N/A,N/A,10,N/A,N/A,2.9,5.8,3.2,N/A,2017-09-30
+CarTaxi,CTX,Ethereum,"
+500,000,000 CTX (65%)",USA,216186,N/A,8700000,N/A,21618600,1,5,2,2,-,-,8,Benchy,3.3,1,2.1,2.3,-,-,-,2.6,2017-10-29
+BlockCAT,BCAT,N/A,N/A,N/A,N/A,N/A,N/A,N/A,239300,95,-,4,4,-,-,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-08-17
+Adel,ADELPHOI,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-,3,3,-,1,N/A,N/A,N/A,N/A,N/A,N/A,-,-,-,N/A,2017-05-31
+Acebusters - Poker on the Ethereum Blockchain,ABP,N/A,N/A,N/A,N/A,N/A,N/A,3000000,500000,0,1,1,1,-,-,N/A,N/A,N/A,N/A,N/A,N/A,3.0,4.5,2.8,N/A,2017-10-21
+Verif-y,VFY,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,2,2,-,1,N/A,N/A,N/A,N/A,N/A,N/A,3.0,7.2,3.4,N/A,2017-11-30
